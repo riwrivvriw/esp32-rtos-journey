@@ -1,0 +1,27 @@
+# ESP-IDF Build Output
+**/build/
+**/managed_components/
+**/dependencies.lock
+
+# ESP-IDF Configuration files
+**/sdkconfig.old
+**/sdkconfig.ci
+sdkconfig.local
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# PlatformIO & Arduino Core (เผื่อใช้งานในอนาคต)
+.pio/
+.pioenvs/
+.piolibdeps/
