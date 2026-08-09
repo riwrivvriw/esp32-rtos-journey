@@ -12,6 +12,7 @@ Framework / OS: FreeRTOS / ESP-IDF
 Language: C 
 
 Topics Covered
+
 [x] Task Creation & Management
 
 [x] Queue & Inter-Task Communication
